@@ -67,11 +67,7 @@
 ![](https://komarev.com/ghpvc/?username=ismailbenhallam&label=PROFILE+VIEWS)
 
 <!-- Stats -->
-![Ismaïl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbenhallam&hide=stars,prs,issues&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&show_owner=true) 
-
-<!-- Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbenhallam&layout=compact&theme=algolia)
--->
+![Ismaïl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbenhallam&hide=stars,prs,issues&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&show_owner=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbenhallam&layout=compact&theme=graywhite)
   
   
 <!--
