@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismaïl BENHALLAM</h1>
 
-#### I am a software engineer at [SQLI](https://www.sqli.com/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=200 align=right>
-
-### 🖍 I’m currently learning *ReactJS*.
-<!-- 💬 Ask me about ... -->
+#### I am a software engineer at [SQLI](https://www.sqli.com/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
 
 ### 📱 How to reach me ?
 <!-- Gmail -->
@@ -14,6 +11,7 @@
 <!-- StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/9296194/isma%c3%afl) -->
 
 ### 👩‍💻 Languages and Tools :
+
 <p align="left">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -65,22 +63,16 @@
 <br/>
   
 ![](https://komarev.com/ghpvc/?username=ismailbenhallam&label=PROFILE+VIEWS)
-
-<!-- Stats -->
+  
+<!-- Stats --> 
 ![Ismaïl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbenhallam&hide=stars,prs,issues&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&show_owner=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbenhallam&layout=compact&theme=graywhite)
   
-  
-<!--
-**ismailbenhallam/ismailbenhallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :bearded_person: About me
+ <!-- Octocat --><img align="right" width="170" height="170" src="https://user-images.githubusercontent.com/36603897/133892287-7861577f-75ef-4382-9999-127a209661be.gif" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator).
+- 🖍 I’m currently learning *ReactJS*.
+- 👯 I’m ready to collaborate on any open-source project.
+- :confused: I’m looking for help with [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator) :arrow_up: design.
+- 💬 Ask me about anything related to Java, Java EE and Spring Framework.
+- ⚡ ***Fun*** fact: I read documentations.
