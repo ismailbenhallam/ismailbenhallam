@@ -45,10 +45,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <!-- NodeJS -->
   <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/></a>
-  <!-- Angular -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/></a>
+  <!-- React JS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" alt="ReactJs" width="40" height="40"/></a>
   <!-- Jenkins -->
-  <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="Docker" width="50" height="40"/></a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <!-- MongoDB -->
@@ -70,9 +72,10 @@
 ### :bearded_person: About me
  <!-- Octocat --><img align="right" width="170" height="170" src="https://user-images.githubusercontent.com/36603897/133892287-7861577f-75ef-4382-9999-127a209661be.gif" />
 
-- 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator).
+<!-- - 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator). -->
+- 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front).
 - 🖍 I’m currently learning *ReactJS*.
 - 👯 I’m ready to collaborate on any open-source project.
-- :confused: I’m looking for help with [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator) :arrow_up: design.
 - 💬 Ask me about anything related to Java, Java EE and Spring Framework.
+<!-- - :confused: I’m looking for help with [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator) :arrow_up: design. -->
 <!-- - ⚡ ***Fun*** fact: I read documentations. -->
