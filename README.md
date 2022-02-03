@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismaïl BENHALLAM</h1>
 
-#### I am a software engineer at [Nimbleways](https://www.nimbleways.com/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
+### I am a software engineer at [Nimbleways](https://www.nimbleways.com/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
 
 ### 📱 How to reach me ?
 <!-- Gmail -->
@@ -73,9 +73,8 @@
  <!-- Octocat --><img align="right" width="170" height="170" src="https://user-images.githubusercontent.com/36603897/133892287-7861577f-75ef-4382-9999-127a209661be.gif" />
 
 <!-- - 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator). -->
-- 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front).
-- 🖍 I’m currently learning *ReactJS*.
+<!-- - 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front). -->
+- 🖍 I’m currently learning **Python**.
 - 👯 I’m ready to collaborate on any open-source project.
 - 💬 Ask me about anything related to Java, Java EE and Spring Framework.
-<!-- - :confused: I’m looking for help with [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator) :arrow_up: design. -->
-<!-- - ⚡ ***Fun*** fact: I read documentations. -->
+- ⚡ **~~Fun~~** fact: I read documentations.
