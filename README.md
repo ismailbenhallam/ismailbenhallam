@@ -46,11 +46,13 @@
   <!-- NodeJS -->
   <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/></a>
   <!-- React JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" alt="ReactJs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" alt="ReactJs" width="40" height="40"/></a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="60" height="40"/></a>
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="Docker" width="50" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" alt="Docker" width="50" height="40"/></a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <!-- MongoDB -->
@@ -60,7 +62,9 @@
   <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <!-- Jira -->
   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="mysql" width="40" height="40"/> </a>
-
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70qUCUgVzIgb_3Gt0AbED0GuWieZz-pcJLw&usqp=CAU" alt="python" width="40" height="40"/> </a>
+  
 <!-- Profile Views -->
 <br/>
   
@@ -74,7 +78,7 @@
 
 <!-- - 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator). -->
 <!-- - 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front). -->
-- 🖍 I’m currently learning **Python**.
+- 🖍 I’m currently learning **Kotlin** <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="python" width="20" height="20"/> </a>
 - 👯 I’m ready to collaborate on any open-source project.
 - 💬 Ask me about anything related to Java, Java EE and Spring Framework.
-- ⚡ **~~Fun~~** fact: I read documentations.
+- ⚡ **~~Fun~~** fact: I love reading documentations.
