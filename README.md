@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismaïl BENHALLAM</h1>
 
-### I am a software engineer at [Nimbleways](https://www.nimbleways.com/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
+### I am a software engineer at [Imedia24](https://www.imedia24.de/) & a **Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
 
 ### 📱 How to reach me ?
 <!-- Gmail -->
