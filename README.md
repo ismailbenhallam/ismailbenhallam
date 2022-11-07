@@ -14,6 +14,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
 ### 👩‍💻 Languages and Tools :
 
 <p align="left">
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <!-- Maven -->
@@ -22,6 +24,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <a href="https://ant.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_ant/apache_ant-official.svg" alt="Ant" width="50" height="40"/></a>
   <!-- Junit -->
   <a href="https://junit.org/junit5/" target="_blank"> <img src="https://junit.org/junit4/images/junit5-banner.png" alt="Log4j" width="110" height="35"/></a>
+  <!-- Test containers -->
+  <a href="https://www.testcontainers.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" alt="Testcontainers" width="40" height="40"/></a>
   <!-- Log4J -->
   <a href="https://logging.apache.org/log4j/2.x/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Apache_Log4j_Logo.png" alt="Log4j" width="110" height="40"/></a>
   <!-- Spring -->
@@ -30,6 +34,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
    <a href="https://struts.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Hibernate -->
    <a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="40" height="40"/> </a>
+  <!-- Ktor -->
+  <a href="https://ktor.io/" target="_blank"> <img src="https://repository-images.githubusercontent.com/40136600/f3f5fd00-c59e-11e9-8284-cb297d193133" alt="Ktor" width="85" height="40"/> </a>
   <!-- Tomcat -->
    <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" width="50" height="40"/> </a>
   <!-- Wildfly -->
@@ -50,6 +56,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <a href="https://reactjs.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png" alt="ReactJs" width="40" height="40"/></a>
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next.js" width="60" height="40"/></a>
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="Firebase" width="40" height="40"/></a>
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
   <!-- Docker -->
@@ -79,7 +87,7 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
 
 <!-- - 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator). -->
 <!-- - 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front). -->
-- 🖍 I’m currently learning **Kotlin** <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="python" width="20" height="20"/> </a>
+- 🖍 I’m currently learning <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="python" width="34" height="19"/> </a>
 - 👯 I’m ready to collaborate on any open-source project.
-- 💬 Ask me about anything related to Java, Java EE and Spring Framework.
+- 💬 Ask me about anything related to Java, Java EE, Spring Framework and Kotlin.
 - ⚡ **~~Fun~~** fact: I love reading documentations.
