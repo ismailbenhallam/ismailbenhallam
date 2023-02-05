@@ -89,5 +89,5 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
 <!-- - 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front). -->
 - 🖍 I’m currently learning <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="python" width="34" height="19"/> </a>
 - 👯 I’m ready to collaborate on Developer Tooling.
-- 💬 Ask me about anything.
+- 💬 Ask me about JavaSE/EE, Kotlin, Spring.
 - ⚡ **~~Fun~~** fact: I love reading documentations.
