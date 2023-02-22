@@ -43,9 +43,11 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <!-- Gradle -->
    <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" alt="Docker" width="50" height="40"/></a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <! GitLab CI/CD -->
+  <a href="https://about.gitlab.com" target="_blank"> <img src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI/CD" width="38" height="40"/></a>
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <!-- JS -->
@@ -60,8 +62,6 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <a href="https://firebase.google.com/" target="_blank"><img src="https://firebase.google.com/static/downloads/brand-guidelines/SVG/logo-logomark.svg" alt="Firebase" width="40" height="40"/></a>
   <!-- Jenkins -->
   <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" alt="Docker" width="50" height="40"/></a>
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <!-- MongoDB -->
