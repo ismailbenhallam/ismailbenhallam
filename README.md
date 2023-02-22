@@ -14,10 +14,12 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
 ### 👩‍💻 Languages and Tools :
 
 <p align="left">
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
+  <!-- Gradle -->
+   <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Maven -->
   <a href="https://maven.apache.org/" target="_blank"> <img src="https://cdn.svgporn.com/logos/maven.svg" alt="Maven" width="60" height="30"/></a>
   <!-- Ant -->
@@ -40,8 +42,6 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
    <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" alt="Tomcat" width="50" height="40"/> </a>
   <!-- Wildfly -->
    <a href="https://www.wildfly.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg" alt="Wildfly" width="40" height="40"/> </a>
-  <!-- Gradle -->
-   <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png.webp" alt="Docker" width="50" height="40"/></a>
   <!-- Git -->
