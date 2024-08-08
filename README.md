@@ -73,6 +73,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <a href="https://www.atlassian.com/fr/software/jira" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="mysql" width="40" height="40"/> </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70qUCUgVzIgb_3Gt0AbED0GuWieZz-pcJLw&usqp=CAU" alt="python" width="40" height="40"/> </a>
+  <!-- Redis -->
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
   
 <!-- Profile Views -->
 <br/>
