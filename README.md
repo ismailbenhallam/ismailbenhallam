@@ -18,6 +18,9 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <!-- Kotlin -->
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="python" width="34" 
+  height="19"/></a>
   <!-- Gradle -->
    <a href="https://gradle.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="spring" width="40" height="40"/> </a>
   <!-- Maven -->
@@ -74,7 +77,7 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70qUCUgVzIgb_3Gt0AbED0GuWieZz-pcJLw&usqp=CAU" alt="python" width="40" height="40"/> </a>
   <!-- Redis -->
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
   
 <!-- Profile Views -->
 <br/>
@@ -88,8 +91,7 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
  <!-- Octocat --><img align="right" width="170" height="170" src="https://user-images.githubusercontent.com/36603897/133892287-7861577f-75ef-4382-9999-127a209661be.gif" />
 
 <!-- - 🔭 I’m currently working on [**Resume Generator**](https://github.com/ismailbenhallam/resume-generator). -->
-<!-- - 🔭 I’m currently working on [**Todo App**](https://github.com/ismailbenhallam/todo-app-front). -->
-- 🖍 I’m currently learning <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="python" width="34" height="19"/> </a>
+- 🖍 I’m currently learning <a href="https://www.jetbrains.com/lp/compose-multiplatform/" target="_blank"> <img src="https://th.bing.com/th/id/R.0185b491c2c275060d654b5b88b06abc?rik=nNSNydbo1axDbA&pid=ImgRaw&r=0" alt="KMP" width="36" height="36"/> </a>
 - 👯 I’m ready to collaborate on Developer Tooling.
 - 💬 Ask me about JavaSE/EE, Kotlin, Spring.
 - ⚡ **~~Fun~~** fact: I love reading documentations.
