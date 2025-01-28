@@ -4,9 +4,9 @@
 **Oracle Certified Professional:** [Java SE 21 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8B8ED0A21BF36C644FE174089AAE11504165CC77CD0BB3CA407CA8029EC853F9), [Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C7BD029A9B4A9BBF8AEB735BF957F1DC31C08DC775F6CA45C15F3F944D6B73F), [Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485). 
 
 
-[<img src="https://brm-workforce.oracle.com/pdf/certview/images/JSE21OCP.png" height="200" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8B8ED0A21BF36C644FE174089AAE11504165CC77CD0BB3CA407CA8029EC853F9)
-[<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" height=200 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F024140366917387BF75005974E24B633759229B94B68C2DFEE6FF4580121F80)
-[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" height=200 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C7BD029A9B4A9BBF8AEB735BF957F1DC31C08DC775F6CA45C15F3F944D6B73F)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/JSE21OCP.png" height=150 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8B8ED0A21BF36C644FE174089AAE11504165CC77CD0BB3CA407CA8029EC853F9)
+[<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" height=150 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F024140366917387BF75005974E24B633759229B94B68C2DFEE6FF4580121F80)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" height=150 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C7BD029A9B4A9BBF8AEB735BF957F1DC31C08DC775F6CA45C15F3F944D6B73F)
 
 
 
