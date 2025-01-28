@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ismaïl BENHALLAM</h1>
 
-### I am a software engineer at [Imedia24](https://www.imedia24.de/) & a **Kotlin/Java** enthusiast ([Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485)).<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" width=160 align=right>
+### I am a software engineer at [Imedia24](https://www.imedia24.de/) & a **Java/Kotlin** enthusiast
+**Oracle Certified Professional:** [Java SE 21 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8B8ED0A21BF36C644FE174089AAE11504165CC77CD0BB3CA407CA8029EC853F9), [Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C7BD029A9B4A9BBF8AEB735BF957F1DC31C08DC775F6CA45C15F3F944D6B73F), [Java SE 11 Developer](https://www.credly.com/badges/d464bd8b-1a75-4bf0-b04a-dc888ebf4485). 
 
-### 📱 How to reach me ?
+
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/JSE21OCP.png" height="200" />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8B8ED0A21BF36C644FE174089AAE11504165CC77CD0BB3CA407CA8029EC853F9)
+[<img src="https://user-images.githubusercontent.com/36603897/125351783-6a00da00-e358-11eb-807a-09ac1998986d.jpg" height=200 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F024140366917387BF75005974E24B633759229B94B68C2DFEE6FF4580121F80)
+[<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCPJSE17.png" height=200 />](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C7BD029A9B4A9BBF8AEB735BF957F1DC31C08DC775F6CA45C15F3F944D6B73F)
+
+
+
+<br/>
+<br/>
+
+
+### 📱 Where to find me ?
 <!-- Gmail -->
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto://ismailben44@gmail.com)<!-- LinkedIn -->
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ismailbenhallam/)<!-- Telegram -->
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https:///t.me/ismailbenhallam)<!-- Twitter -->
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ismailbenhallam)<!-- Instagram -->
-<!-- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ismail.benhallam/)
-StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/9296194/isma%c3%afl) -->
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto://contact@ismailbenhallam.com)<!-- LinkedIn -->[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ismailbenhallam/)<!-- Telegram -->[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https:///t.me/ismailbenhallam)<!-- Twitter --><!-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ismailbenhallam) --><!-- Instagram --><!-- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ismail.benhallam/) --><!-- Stackoverflow -->[<img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/9296194/isma%c3%afl)
 
 ### 👩‍💻 Languages and Tools :
 
@@ -85,7 +92,8 @@ StackOverFlow [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?styl
 ![](https://komarev.com/ghpvc/?username=ismailbenhallam&label=PROFILE+VIEWS)
   
 <!-- Stats --> 
-![Ismaïl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbenhallam&hide=stars,prs,issues&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&show_owner=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbenhallam&layout=compact&theme=graywhite)
+<!-- ![Ismaïl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbenhallam&hide=stars,prs,issues&theme=graywhite&show_icons=true&include_all_commits=true&count_private=true&show_owner=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbenhallam&layout=compact&theme=graywhite)
   
 ### :bearded_person: About me
  <!-- Octocat --><img align="right" width="170" height="170" src="https://user-images.githubusercontent.com/36603897/133892287-7861577f-75ef-4382-9999-127a209661be.gif" />
